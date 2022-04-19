@@ -2,9 +2,9 @@ import React from 'react'
 import logo from './images/logo.svg'
 import './header.css'
 import places from './stays.json'
-function Header() {
 
-    
+
+function Header() {    
     const getDistinctLocations = (locs) => { 
         const visited = new Set();
         return places.filter(place => {
