@@ -1,0 +1,18 @@
+
+.img{
+   width: 100%;
+    border-radius: 20px;
+    height: 300px;
+}
+.superhost{
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+
+}
+.primary-color{
+    color: #333;
+}
+.screen{
+    width: 100vw;
+}

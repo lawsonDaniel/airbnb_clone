@@ -1,0 +1,57 @@
+.con{
+    height: 20vh;
+}
+
+.select{
+    outline: none;
+    background-color: #fff;
+    border: 0;
+    padding: 5px;
+     -webkit-appearance: none;
+}
+.selectmain{
+    border-radius: 10px;
+    padding: 5px;
+   
+   
+}
+.select-logo{
+    padding: 5px;
+}
+.secondselect{
+    
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left: 1px solid rgba(51, 51, 51, 0.089);
+    padding: 10px;
+    border-right: 1px solid rgba(51, 51, 51, 0.103);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    
+}
+
+.firstselect{  
+    border-radius: 10px;
+    border-right: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    padding: 10px;
+    
+
+    
+    
+}
+.thirdSelect{
+    border-left: 0;
+    padding: 2px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+   
+}
+
+.material-icons{
+    padding: 6px;
+    color: red;
+}
