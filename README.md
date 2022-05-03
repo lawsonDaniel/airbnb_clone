@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://">
+    <a href="https://marvelous-unicorn-290ce3.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://marvelous-unicorn-290ce3.netlify.app/">
+    <a href="">
       Solution
     </a>
     <span> | </span>
